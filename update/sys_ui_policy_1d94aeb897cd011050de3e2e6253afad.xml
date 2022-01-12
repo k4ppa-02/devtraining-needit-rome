@@ -20,7 +20,6 @@ function onCondition() {
 	
 	// funzione che nasconde il messaggio
 	g_form.hideFieldMsg('u_other', true); 
-	
 }]]></script_false>
         <script_true><![CDATA[function onCondition() {
     // Display a message under the Other field to explain what to put in the
@@ -35,7 +34,7 @@ function onCondition() {
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>1d94aeb897cd011050de3e2e6253afad</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>NeedIt mostra o nascondi Altro campo</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
@@ -43,7 +42,7 @@ function onCondition() {
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_ui_policy_1d94aeb897cd011050de3e2e6253afad</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-12 09:03:01</sys_updated_on>
+        <sys_updated_on>2022-01-12 09:15:06</sys_updated_on>
         <table>x_58872_needit_needit</table>
         <ui_type>10</ui_type>
         <view/>
